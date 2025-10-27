@@ -832,10 +832,41 @@ footer .list ul li{
     display: none;
   }
    .footer-links #poyo{
-     display:none;
+     display:none
    }
-  .last-section h2 {
-    display:none;
-  }
+  footer .list1 ul li{
+  display:none
 }
+  footer .list2 ul li{
+  display:none
+}
+  footer .list3 ul li{
+  display:none
+}
+  footer .list ul li{
+    list-style: none;
+    padding: 4px;
+    width: 290%;
+    gap: 60px;
+}
+  .last-section h2 {
+    display:none
+  }
+  .last-section button {
+    display:none
+  }
+  .rder {
+  display: block;
+  text-align: center;
+  margin: 20px auto;
+  padding: 1px 4px;
+  border-radius: 14px;
+  background: linear-gradient(90deg, #FFBA26, #FF9A0E);
+  color: var(--light);
+  transition: 0.5s;
+  border: var(--primary) 2px solid;
+  box-shadow: 1px 5px 10px 1px #ff9b0e9a;
+}
+}
+
 
