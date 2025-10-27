@@ -831,5 +831,11 @@ footer .list ul li{
   .social-links{
     display: none;
   }
-   
+   .footer-links #poyo{
+     display:none;
+   }
+  .last-section h2 {
+    display:none;
+  }
 }
+
